@@ -1,0 +1,34 @@
+Clasificación de los sucesos
+Experimento → ensayo o juego que puede constar de uno o más intentos y cuyo resultado es la ocurrencia de uno, y solo uno de los resultados posibles y no se sabe cual ocurrirá. 
+-Normalmente se basa en el modelo frecuentista. Basada en la experiencia. 
+-Equiprobable, recuerda este término.
+Clasificación
+Simple: 
+Es un evento que puede describirse con una característica unica. 
+ejemplo: "Que el comprador tenga más de 40 años"
+Sucesos Excluyentes:
+En una sola realización de un experimento A Y B estos son mutuamente excluyentes.
+La ocurrencia de uno imposibilita la ocurrencia de otro. 
+Ejemplo: Auto nacional o importado. 
+Si no occure uno ocurre otro pero siempre debe ocurrir, el colectivament exhaustivo. 
+Sucesos Compatibles:
+Pueden ocurrir al mismo tiempo, ejemplo auto nacional o más de 40 años. 
+No es que necesariamente puede ocurrir en forma conjunta.
+Pueden ocurrir al mismo tiempo, pero no necesariamente deben hacerlo.  
+
+Regla de la adicion:
+La probabilidad de A o B sería la probabilidad A U probabilidad B - la intersección. 
+Debe existir una interseccion de esos eventos para aplicarlos
+Ejemplo sacar una carta 4 o una carta que sea roja
+Debo considerar la probabilidad de que sea 4 + la probabilidad de que sea roja, sin embargo hay redundancia en cuanto a las cartas 4 rojas, entonces sutraemos dicha intersección. 
+
+Regla de la multiplicacion: 
+Sucesos independientes: 
+Cuando ocurre un evento pero sin entorpecer a otro, son independientes. 
+entonces la probabilidad de A sucedido B, es probabilidad de A. 
+Entonces si A y B son independientes, La probabilidad de A y B es el producto de sus probablidades. 
+
+Cuando se afectan entre los eventos siempre se debe 
+tener en cuenta a menudo el campo muestral. 
+
+La probabilidad de A dado B es la probabilidad de la intersección dividida con la probabilidad de B. 

@@ -1,0 +1,122 @@
+Día 09/05/2022
+-Pensamiento Computacional
+-Hacemos búsqueda de patrones
+-La realidad es un conjunto de estímulos que el cerebro organiza
+-#Teoría del Falso Positivo#
+-Normalizamos los datos de la realidad para obtener predicciones
+-Función Eval (Devuleve de un string el tipo de dato que referencia)
+
+Diá 10/05/2022
+-Funcion Map → Aplica una funcion a un conjunto interable
+-isinstance(numero,int) → ¿Número es instancia de la clase int?
+-Datos = Fuente de conocimiento prima
+-Datos Cuantitativos  - Se pueden representar por numeros operables
+--Datos Discretos - Son enteros
+--Datos Continuos - Son Reales o racionales
+-Datos Cualitativos
+--Datos Categóricos → Los clasifico
+--Datos Ordinales → Los clasifico pero existen ordenes
+-Falencia de Datos
+--Carencia de Datos
+--Errores en los Datos
+-Preguntas de Análisis Exploratorio [Revisar]
+--#Ejemplo de como aplicar un case en Python--
+
+def error(status):
+
+    match status:
+        case 400:
+            return "Bad request"
+        case 404:
+            return "Not Found"
+        case 418:
+            return "Im teapot"
+        case _:
+            return "Internet"
+
+Día 11/05/2022
+--
+#Esto es para comprobar las lineas de mi archivo
+contador = 0
+for linea in archivo:
+    print(linea)
+    contador +=1
+    if(contador >=3):
+        break
+---
+
+-La Funcion Open() recibe un archivo como parametro para así tenerlo en una variable
+-La Funcion Next() recibe un archivo y salta la siguiente línea
+-La Funcion Split() crea una lista separando de acuerdo al parametro recibido
+-El Año es un tipo de dato discreto, pero será Cuantitativo?
+-Lo cierto es que agrupamos con los años, osea cualitativa categorica. "No ordinal porque no es 'mejor' que otros".
+-El encoding es un formato que se puede cambiar en el mismo csv
+-"append" es que se puede agregar, funciona para un archivo?
+-Diferencia entre direccion relativa y direccion global
+-En cuanto a trabajar con CSV no se recomienda hacerlo de forma online, sino de forma local
+-Si tenemos un string, la FUNCION STRIP, devuelve una cadena sin espacios en blanco al principio y al final, MUY UTIL.
+-Usaremos enumerate cuando necesitemos un indice y un elemento de un objeto iterable
+-Siempre es recomendable cerrar un archivo con la funcion close
+
+FOR I IN RANGE
+-Si queremos modificar algo en una columna en especifico lo mejor sería, iterar con un indice por el largo de la lista del diccionario, ejemo len(dicc["llave"])
+
+FORMA ALTERNATIVA
+-Tambien podemos emplear un enumerate pero en este caso lo aplicamos en la lista del diccionario como tal. 
+-Modificariamos el elemento para darle formato según convenga
+-Si este es vacío nulo, entonces le asignamos el valor None
+-De lo contrario le otorgamos un formato adecuado.
+-Finalmente actualizamos los elemento individuales del diccionario según la llave, y el indice otorgado por el enumerate, todo será igual al elemento del enumerate.
+
+-Si queremos comprobar, los datos podemos usar... dicc["llave"][indice], recuerda que algunos pueden ser vacios, se debe buscar uno adecuado. 
+
+SUMATORIA DE ELEMENTOS DE UNA COLUMNA PERO CON FILTROS
+-Para esto creamos una lista donde estarán nuestros resultados
+-Iteramos con un indice que ira hasta el rango que nos ofrece el largo de la lista del diccionario con la llave que queramos operar. 
+-Creamos las condiciones correspondientes, recuerda hacerlo con respecto a cada elemento, osea usar el indice en las listas de diccionario de donde provienen las condiciones. 
+-Confirmamos que las condiciones se cumplan todas entre sí, y aquel indice nos mostrara que elementos agregar de nuestra lista de diccionario especifica. 
+-Después solo nos quedaría sumar los datos aplicando sum(lista)
+
+--NUMPY--
+Es una librería numerica muy potente, nos proporcionan datos matriciales y 
+funciones matemáticas de altísimo nivel
+*El Pandas se usa solo cuando es estrictamente necesario*
+-Como dijimos Numpy genera arrays, las listas tienen un procesamiento más pesado.
+-Podemos crear facilmente arreglos de mucha más dimensiones.
+-En un array los elementos que existen en ella son del mismo tipo de dato.
+
+-Para agregar cualquier Liberia en un futuro, pip install "libreria", lo hacemos en consola. 
+
+Día 12/05/2022
+-Los arrays si pueden recibir elementos distintos, pero lo castean a un mismo tipo de dato.
+-Los arreglos usan un método para sumarse pero, las listas deben ingresar como parámetro a una función. 
+-(n,) : Nos referimos a solo una dimensión. [no lleva doble corchete]
+-(1,6): Nos referimos a un arreglo 2D [Debería llevar doble corchete]
+-np.nan == np.nan, no es igual porque son indeterminados. 
+-Hay distintos tipos de integer, la cantidad de valores que admite debido a sus bits. 
+--Con esto cambiamos solo filas y columnas a nuestra eleccion
+#Para solo la fila 1 y la 4
+arreglo_zero[[1,3],:] = 1
+arreglo_zero[:,[2,7]] = 2
+print(arreglo_zero)
+
+--PANDAS--
+-Mucho mejor que excel
+-Permite rapidamente trabajar con csv o excel
+-No usar pandas, en algunas ocasiones porque usa muchos recursos
+-Series: Estructura de una dimensiones
+-DataFrame: Estructura de dos dimensiones (tablas)
+-DataSet != DataFrame
+-En Pandas tenemos tres estructuras, Series,DataFrames,Index
+
+-Diferencia entre iloc y loc, el iloc es un entero, el loc puede ser una condicion.
+
+Día 13/05/2022
+-Libreria CSV
+-cuadrados = [num**2 for num in numeros if num%2==0] 
+-Operar de derecha a izquierda
+
+--Estructura de Datos--
+Día 16/05/2022
+Día 19/05/22
+time.sleep(numero) es un delay.

@@ -1,0 +1,36 @@
+Aplicaciones de Machine Learning
+-Reconocer Correos SPAM
+-Reconocimiento Facial en las Redes Sociales.
+-Recomendaciones de Materiales Audiovisuales en Netflix
+-Traducción Simultanea - Imágenes de otros idiomas. 
+-Publicidad en Google, Youtube, Facebook
+-Realidad Virtual
+-Automóviles Autónomos
+
+Historia Machine Learning
+-1950 (Alan Turing - Computación e Inteligencia)
+-"Una computadora puede proporcionar respuestas o comportamientos propios de la inteligencia humana"
+-1952 - Primer programa de ordenador capaz de aprender, jugaba a las damas y era capaz de aprender de sus errores.
+-1957 - Red Neuronal en hardware para reconocimiento de caracteres.
+-1979 - Standford - Se diseño un vehículo capaz de moverse autónomamente por una habitación llena de obstáculos. 
+-1981 - "Experiencia Basada en Entrenamiento", entonces analizandodatos de entrenamiento podemos crear una regla general.
+-1985 - Se inventa NetTalk, software que pronuncia palabras.
+-1990 - Se crean programas capaz de analizar "big data" y obtener conclusiones de estos.
+-1996 - El Computador "Deep Blue" de IBM vence al campeón del mundo de ajedrez de la época. 
+-2006 - Se presenta el concepto de "Deep Learning", el comienzo del análisis profundo tanto de imagenes como de video. 
+-2010 Se implementa en el Kinect de Xbox 360 un algoritmoque reconoce 20 características del cuerpo humano a una velocidad de 30 veces por segundo. 
+-2011: Un ordenador vence a humanos en un concurso de preguntas y respuestas.
+-2011: Se crea google brain, se crea una red neuronal para recoger patrones. 
+-2012: Google X desarrolla un algoritmo de aprendizaje automático, el cual navega por videos de youtube reconociendo gatos. 
+-2014: El test de Turing es aprobado, ya que el 30% de jueces reconocen a la máquina como un humano. 
+-2014: Se desarolla DeepFace un algoritmo de reconocimiento facial al nivel humano. 
+-2015: Amazon lanza su propia plataforma de aprendizaje automático. 
+-Microsoft también realiza un aporte.
+-Se encuentra un chat bot, que es capaz de expresar opiniones.
+-OPENAI, se crea una compañia que investiga afondo la inteligencia artificial. 
+2016: Un algoritmo de inteligencia artificial vence a un jugador profesional en el juego de mesa chino GO
+2017: Se hace un paso más al entrenmiento al chat bot
+Y vence a gente en un juego de palurdos. 
+
+Definicion de Machine Learning:
+Es emplear algoritmos que puedan brindarnos información de un conjunto de datos sin depender de la programación basada en reglas sino de la experiencia brindada por los datos. 

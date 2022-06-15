@@ -1,0 +1,13 @@
+#Modificacion01
+- Se elimino las filas con datos faltantes en "Embarked" ya que son solo 2 registros. 
+
+#ATRIBUTO_EDAD
+- Opción 1: Podríamos imputar las edades faltantes con el número "25" ya que es el promedio de edades de pasajeros "3"
+- Opción 2: Pódriamos imputar las edades faltantes con el número "24" ya que es la mediana de las edades de pasajeros
+- En este caso la media truncada nos ofrece una validación más cercana a la opción 1: Entonces 25 será la edad a inputar. 
+
+#Modificacion02
+- Se Inputó los datos faltantes en edad con 25 y se procedió a transformarlos en intervalos (10 de amplitud 8). 
+
+#Modificacion03
+- Se consiguió clasificar de mejor formas las Cabinas, por sus respectivas letras iniciales generalizando la Zona en la que se puedan encontrar

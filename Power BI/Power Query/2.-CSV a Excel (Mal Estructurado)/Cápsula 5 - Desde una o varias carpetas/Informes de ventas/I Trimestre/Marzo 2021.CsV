@@ -1,0 +1,55 @@
+Fecha;Sucursal;Vendedor;Categoría de producto;Producto;Precio unitario;Cantidad vendida;Total cobrado
+1/03/2021;Abasto;Desmond Haydyn;C-001;P-005;183.44;10;1834.4
+2/03/2021;Villa Grande;Marisa Bradford;C-004;P-017;370.8;9;3337.2
+2/03/2021;Santo Tomás;Lisa Ferrari;C-003;P-014;245.55;9;2209.95
+2/03/2021;Abasto;Travon Fotherby;C-001;P-004;321.99;9;2897.91
+3/03/2021;Abasto;Faith Hurst;C-003;P-012;414.36;1;414.36
+3/03/2021;San Genaro;Nash Garrison;C-005;P-030;102.05;1;102.05
+3/03/2021;Abasto;Faith Hurst;C-002;P-011;244.13;1;244.13
+4/03/2021;Santo Tomás;Lisa Ferrari;C-004;P-020;205.56;3;616.68
+4/03/2021;Victoria;Jaime Gallardo;C-005;P-028;124.84;3;374.52
+4/03/2021;Abasto;Travon Fotherby;C-005;P-031;281.8;2;563.6
+4/03/2021;Villa Grande;Jamarcus Sears;C-004;P-023;280.35;8;2242.8
+5/03/2021;Villa Grande;Yahir Milthorpe;C-005;P-029;172.82;3;518.46
+6/03/2021;Victoria;Joslyn Gallagher;C-006;P-040;273.32;1;273.32
+7/03/2021;Villa Grande;Joey Paredes;C-006;P-038;398.03;3;1194.09
+8/03/2021;Abasto;Bethany Selby;C-006;P-039;177.21;3;531.63
+9/03/2021;Santo Tomás;Stanley Botolph;C-004;P-017;370.8;4;1483.2
+10/03/2021;Abasto;Desmond Haydyn;C-001;P-003;361.53;10;3615.3
+11/03/2021;Villa Grande;Louise Ralph;C-004;P-018;121.47;2;242.94
+12/03/2021;Victoria;Joslyn Gallagher;C-001;P-005;183.44;9;1650.96
+12/03/2021;San Genaro;Barb Pelletier;C-005;P-035;405.47;4;1621.88
+13/03/2021;Abasto;Kya Girard;C-004;P-025;129.06;1;129.06
+13/03/2021;Santo Tomás;Zavier Chittenden;C-003;P-015;279.25;3;837.75
+14/03/2021;Victoria;Jaime Gallardo;C-006;P-037;161.87;1;161.87
+14/03/2021;Villa Grande;Jamarcus Sears;C-004;P-021;349.42;1;349.42
+15/03/2021;Abasto;Amica Araya;C-002;P-009;228.04;8;1824.32
+16/03/2021;Villa Grande;Marisa Bradford;C-006;P-042;144.7;9;1302.3
+17/03/2021;Villa Grande;Joey Paredes;C-003;P-015;279.25;5;1396.25
+17/03/2021;Santo Tomás;Stanley Botolph;C-001;P-001;270.36;2;540.72
+18/03/2021;Abasto;Bethany Selby;C-006;P-037;161.87;9;1456.83
+18/03/2021;Abasto;Kya Girard;C-005;P-026;185.03;3;555.09
+18/03/2021;Victoria;Jaime Gallardo;C-004;P-022;143.56;1;143.56
+19/03/2021;Santo Tomás;Lisa Ferrari;C-003;P-012;414.36;6;2486.16
+19/03/2021;Villa Grande;Louise Ralph;C-006;P-039;177.21;3;531.63
+20/03/2021;Santo Tomás;Stanley Botolph;C-001;P-003;361.53;5;1807.65
+21/03/2021;Victoria;Gage Cutting;C-005;P-034;361.83;10;3618.3
+22/03/2021;Abasto;Bethany Selby;C-006;P-043;314.93;5;1574.65
+22/03/2021;Santo Tomás;Zavier Chittenden;C-004;P-019;103.96;8;831.68
+22/03/2021;Abasto;Desmond Haydyn;C-005;P-026;185.03;3;555.09
+23/03/2021;Villa Grande;Joey Paredes;C-004;P-016;259.34;2;518.68
+24/03/2021;San Genaro;Nash Garrison;C-004;P-024;427.11;2;854.22
+25/03/2021;Villa Grande;Marisa Bradford;C-005;P-033;331.34;9;2982.06
+25/03/2021;Abasto;Kya Girard;C-006;P-040;273.32;1;273.32
+26/03/2021;Abasto;Bethany Selby;C-004;P-020;205.56;3;616.68
+26/03/2021;Abasto;Faith Hurst;C-004;P-020;205.56;3;616.68
+26/03/2021;San Genaro;Barb Pelletier;C-005;P-031;281.8;2;563.6
+26/03/2021;Villa Grande;Jamarcus Sears;C-001;P-001;270.36;4;1081.44
+26/03/2021;Victoria;Nathaly Corwin;C-006;P-039;177.21;8;1417.68
+27/03/2021;Victoria;Jaime Gallardo;C-006;P-037;161.87;5;809.35
+28/03/2021;Victoria;Gage Cutting;C-001;P-003;361.53;10;3615.3
+29/03/2021;Abasto;Bethany Selby;C-004;P-018;121.47;5;607.35
+30/03/2021;Santo Tomás;Stanley Botolph;C-005;P-031;281.8;8;2254.4
+31/03/2021;Victoria;Joslyn Gallagher;C-005;P-029;172.82;7;1209.74
+31/03/2021;Santo Tomás;Reynaldo Gliston;C-002;P-010;183.85;9;1654.65
+31/03/2021;Abasto;Bethany Selby;C-002;P-010;183.85;4;735.4

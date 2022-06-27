@@ -1,0 +1,368 @@
+Fecha;Sucursal;Vendedor;Categoría de producto;Producto;Precio unitario;Cantidad vendida;Total cobrado
+1/07/2021;Abasto;Kya Girard;C-005;P-026;185.03;7;1295.21
+2/07/2021;Santo Tomás;Reynaldo Gliston;C-004;P-023;280.35;8;2242.8
+2/07/2021;Abasto;Travon Fotherby;C-004;P-016;259.34;1;259.34
+2/07/2021;Abasto;Faith Hurst;C-004;P-017;370.8;6;2224.8
+2/07/2021;Villa Grande;Jamarcus Sears;C-005;P-026;185.03;9;1665.27
+2/07/2021;Villa Grande;Joey Paredes;C-005;P-027;432.9;10;4329
+2/07/2021;Villa Grande;Yahir Milthorpe;C-004;P-021;349.42;6;2096.52
+2/07/2021;Abasto;Bethany Selby;C-001;P-001;270.36;2;540.72
+2/07/2021;Santo Tomás;Reynaldo Gliston;C-001;P-002;116.7;1;116.7
+2/07/2021;Santo Tomás;Zavier Chittenden;C-001;P-001;270.36;6;1622.16
+3/07/2021;Villa Grande;Marisa Bradford;C-004;P-023;280.35;1;280.35
+3/07/2021;Victoria;Jaime Gallardo;C-004;P-022;143.56;3;430.68
+4/07/2021;Abasto;Kya Girard;C-004;P-025;129.06;2;258.12
+4/07/2021;Abasto;Alani Leigh;C-002;P-008;261.87;9;2356.83
+4/07/2021;Villa Grande;Marisa Bradford;C-005;P-034;361.83;4;1447.32
+4/07/2021;Santo Tomás;Reynaldo Gliston;C-004;P-024;427.11;4;1708.44
+4/07/2021;Abasto;Travon Fotherby;C-003;P-012;414.36;6;2486.16
+5/07/2021;Abasto;Faith Hurst;C-004;P-024;427.11;2;854.22
+5/07/2021;Villa Grande;Macie Dixie;C-006;P-037;161.87;8;1294.96
+5/07/2021;Abasto;Kya Girard;C-003;P-014;245.55;3;736.65
+5/07/2021;Santo Tomás;Stanley Botolph;C-006;P-038;398.03;9;3582.27
+6/07/2021;Santo Tomás;Stanley Botolph;C-004;P-016;259.34;9;2334.06
+6/07/2021;San Genaro;Barb Pelletier;C-005;P-035;405.47;6;2432.82
+7/07/2021;Victoria;Joslyn Gallagher;C-004;P-021;349.42;1;349.42
+7/07/2021;Abasto;Bethany Selby;C-004;P-022;143.56;9;1292.04
+8/07/2021;Victoria;Jaime Gallardo;C-002;P-007;385.93;5;1929.65
+8/07/2021;Victoria;Nathaly Corwin;C-001;P-004;321.99;9;2897.91
+9/07/2021;Villa Grande;Itzel Halstead;C-004;P-019;103.96;7;727.72
+10/07/2021;San Genaro;Barb Pelletier;C-004;P-017;370.8;3;1112.4
+11/07/2021;San Genaro;Irvin Reynold;C-006;P-036;405.74;4;1622.96
+11/07/2021;Villa Grande;Yahir Milthorpe;C-003;P-012;414.36;7;2900.52
+11/07/2021;Villa Grande;Itzel Halstead;C-006;P-037;161.87;7;1133.09
+11/07/2021;San Genaro;Barb Pelletier;C-006;P-038;398.03;2;796.06
+11/07/2021;Abasto;Alani Leigh;C-001;P-005;183.44;8;1467.52
+12/07/2021;San Genaro;Nash Garrison;C-003;P-013;115.75;10;1157.5
+13/07/2021;Villa Grande;Itzel Halstead;C-006;P-041;234.59;5;1172.95
+13/07/2021;San Genaro;Nash Garrison;C-003;P-013;115.75;10;1157.5
+14/07/2021;Santo Tomás;Reynaldo Gliston;C-002;P-011;244.13;7;1708.91
+14/07/2021;Abasto;Kya Girard;C-004;P-021;349.42;2;698.84
+15/07/2021;Santo Tomás;Reynaldo Gliston;C-006;P-036;405.74;5;2028.7
+15/07/2021;Santo Tomás;Reynaldo Gliston;C-001;P-003;361.53;9;3253.77
+15/07/2021;Abasto;Kya Girard;C-003;P-013;115.75;5;578.75
+16/07/2021;San Genaro;Nash Garrison;C-004;P-016;259.34;8;2074.72
+16/07/2021;Abasto;Amica Araya;C-006;P-042;144.7;2;289.4
+17/07/2021;Abasto;Amica Araya;C-005;P-029;172.82;2;345.64
+18/07/2021;Santo Tomás;Stanley Botolph;C-005;P-027;432.9;1;432.9
+19/07/2021;San Genaro;Irvin Reynold;C-006;P-040;273.32;6;1639.92
+19/07/2021;Villa Grande;Louise Ralph;C-004;P-020;205.56;5;1027.8
+19/07/2021;San Genaro;Nash Garrison;C-004;P-019;103.96;7;727.72
+19/07/2021;Villa Grande;Joey Paredes;C-004;P-021;349.42;7;2445.94
+20/07/2021;Santo Tomás;Reynaldo Gliston;C-003;P-012;414.36;6;2486.16
+20/07/2021;San Genaro;Irvin Reynold;C-005;P-026;185.03;9;1665.27
+21/07/2021;Villa Grande;Joey Paredes;C-006;P-040;273.32;1;273.32
+21/07/2021;Abasto;Faith Hurst;C-002;P-008;261.87;7;1833.09
+21/07/2021;Victoria;Gage Cutting;C-006;P-042;144.7;2;289.4
+22/07/2021;Santo Tomás;Stanley Botolph;C-004;P-020;205.56;8;1644.48
+22/07/2021;Victoria;Gage Cutting;C-002;P-010;183.85;1;183.85
+23/07/2021;Villa Grande;Joey Paredes;C-006;P-041;234.59;8;1876.72
+24/07/2021;Villa Grande;Itzel Halstead;C-005;P-030;102.05;5;510.25
+25/07/2021;Santo Tomás;Lisa Ferrari;C-002;P-008;261.87;5;1309.35
+26/07/2021;Victoria;Nathaly Corwin;C-001;P-004;321.99;6;1931.94
+27/07/2021;Santo Tomás;Lisa Ferrari;C-002;P-006;104.98;7;734.86
+27/07/2021;San Genaro;Irvin Reynold;C-002;P-006;104.98;3;314.94
+27/07/2021;Victoria;Jaime Gallardo;C-006;P-041;234.59;7;1642.13
+28/07/2021;Victoria;Joslyn Gallagher;C-004;P-023;280.35;3;841.05
+28/07/2021;Villa Grande;Yahir Milthorpe;C-002;P-006;104.98;8;839.84
+29/07/2021;Abasto;Travon Fotherby;C-004;P-025;129.06;2;258.12
+29/07/2021;Victoria;Nathaly Corwin;C-001;P-004;321.99;7;2253.93
+30/07/2021;Victoria;Gage Cutting;C-005;P-032;207.23;10;2072.3
+31/07/2021;Santo Tomás;Stanley Botolph;C-002;P-007;385.93;8;3087.44
+1/08/2021;Victoria;Jaime Gallardo;C-006;P-040;273.32;9;2459.88
+1/08/2021;Victoria;Joslyn Gallagher;C-003;P-015;279.25;5;1396.25
+1/08/2021;Victoria;Gage Cutting;C-005;P-029;172.82;4;691.28
+2/08/2021;Villa Grande;Yahir Milthorpe;C-005;P-030;102.05;5;510.25
+2/08/2021;Santo Tomás;Zavier Chittenden;C-003;P-012;414.36;4;1657.44
+3/08/2021;San Genaro;Nash Garrison;C-006;P-038;398.03;1;398.03
+3/08/2021;Villa Grande;Itzel Halstead;C-004;P-025;129.06;8;1032.48
+4/08/2021;Villa Grande;Itzel Halstead;C-005;P-032;207.23;1;207.23
+5/08/2021;Abasto;Travon Fotherby;C-002;P-008;261.87;3;785.61
+6/08/2021;Villa Grande;Yahir Milthorpe;C-002;P-008;261.87;7;1833.09
+6/08/2021;Villa Grande;Jamarcus Sears;C-003;P-013;115.75;9;1041.75
+7/08/2021;Villa Grande;Louise Ralph;C-003;P-012;414.36;7;2900.52
+8/08/2021;Santo Tomás;Stanley Botolph;C-003;P-014;245.55;5;1227.75
+8/08/2021;Villa Grande;Macie Dixie;C-002;P-010;183.85;9;1654.65
+9/08/2021;San Genaro;Irvin Reynold;C-006;P-043;314.93;7;2204.51
+10/08/2021;San Genaro;Irvin Reynold;C-006;P-039;177.21;10;1772.1
+10/08/2021;San Genaro;Barb Pelletier;C-006;P-039;177.21;8;1417.68
+11/08/2021;San Genaro;Barb Pelletier;C-006;P-036;405.74;7;2840.18
+12/08/2021;Abasto;Kya Girard;C-004;P-020;205.56;8;1644.48
+12/08/2021;Santo Tomás;Stanley Botolph;C-005;P-030;102.05;9;918.45
+13/08/2021;Abasto;Desmond Haydyn;C-006;P-043;314.93;4;1259.72
+13/08/2021;Abasto;Travon Fotherby;C-006;P-037;161.87;5;809.35
+14/08/2021;Abasto;Amica Araya;C-003;P-014;245.55;1;245.55
+14/08/2021;Abasto;Kya Girard;C-001;P-004;321.99;4;1287.96
+15/08/2021;Victoria;Gage Cutting;C-005;P-029;172.82;6;1036.92
+15/08/2021;San Genaro;Barb Pelletier;C-005;P-028;124.84;2;249.68
+15/08/2021;Abasto;Travon Fotherby;C-004;P-024;427.11;10;4271.1
+16/08/2021;Abasto;Kya Girard;C-003;P-012;414.36;6;2486.16
+17/08/2021;San Genaro;Barb Pelletier;C-003;P-014;245.55;1;245.55
+17/08/2021;Abasto;Desmond Haydyn;C-001;P-002;116.7;3;350.1
+17/08/2021;Villa Grande;Louise Ralph;C-004;P-025;129.06;1;129.06
+18/08/2021;Victoria;Joslyn Gallagher;C-005;P-027;432.9;2;865.8
+19/08/2021;Villa Grande;Yahir Milthorpe;C-004;P-016;259.34;5;1296.7
+20/08/2021;Victoria;Nathaly Corwin;C-004;P-020;205.56;7;1438.92
+20/08/2021;Villa Grande;Jamarcus Sears;C-002;P-006;104.98;6;629.88
+20/08/2021;Victoria;Nathaly Corwin;C-004;P-019;103.96;3;311.88
+20/08/2021;San Genaro;Nash Garrison;C-004;P-018;121.47;8;971.76
+21/08/2021;Villa Grande;Jamarcus Sears;C-002;P-006;104.98;2;209.96
+21/08/2021;San Genaro;Nash Garrison;C-005;P-031;281.8;2;563.6
+21/08/2021;Abasto;Faith Hurst;C-005;P-034;361.83;9;3256.47
+22/08/2021;Villa Grande;Marisa Bradford;C-001;P-005;183.44;7;1284.08
+23/08/2021;San Genaro;Barb Pelletier;C-003;P-015;279.25;7;1954.75
+23/08/2021;Abasto;Bethany Selby;C-006;P-036;405.74;7;2840.18
+23/08/2021;San Genaro;Nash Garrison;C-005;P-032;207.23;9;1865.07
+23/08/2021;Villa Grande;Joey Paredes;C-003;P-014;245.55;4;982.2
+24/08/2021;Villa Grande;Macie Dixie;C-005;P-030;102.05;7;714.35
+25/08/2021;Villa Grande;Marisa Bradford;C-002;P-008;261.87;6;1571.22
+26/08/2021;Abasto;Bethany Selby;C-003;P-014;245.55;1;245.55
+26/08/2021;Santo Tomás;Stanley Botolph;C-006;P-040;273.32;6;1639.92
+26/08/2021;Villa Grande;Jamarcus Sears;C-005;P-028;124.84;3;374.52
+27/08/2021;Villa Grande;Louise Ralph;C-004;P-018;121.47;6;728.82
+28/08/2021;Abasto;Kya Girard;C-005;P-031;281.8;4;1127.2
+28/08/2021;Abasto;Faith Hurst;C-004;P-017;370.8;8;2966.4
+28/08/2021;Victoria;Gage Cutting;C-004;P-018;121.47;5;607.35
+29/08/2021;San Genaro;Barb Pelletier;C-001;P-001;270.36;2;540.72
+29/08/2021;Villa Grande;Yahir Milthorpe;C-004;P-016;259.34;7;1815.38
+29/08/2021;Abasto;Bethany Selby;C-003;P-014;245.55;4;982.2
+30/08/2021;Santo Tomás;Lisa Ferrari;C-004;P-021;349.42;3;1048.26
+30/08/2021;Santo Tomás;Zavier Chittenden;C-001;P-001;270.36;2;540.72
+30/08/2021;Victoria;Gage Cutting;C-001;P-003;361.53;6;2169.18
+31/08/2021;Santo Tomás;Lisa Ferrari;C-001;P-002;116.7;8;933.6
+1/09/2021;Abasto;Desmond Haydyn;C-003;P-012;414.36;2;828.72
+2/09/2021;Abasto;Amica Araya;C-006;P-037;161.87;1;161.87
+2/09/2021;Abasto;Alani Leigh;C-006;P-039;177.21;7;1240.47
+2/09/2021;Abasto;Desmond Haydyn;C-002;P-007;385.93;6;2315.58
+3/09/2021;Abasto;Travon Fotherby;C-006;P-036;405.74;7;2840.18
+3/09/2021;Villa Grande;Louise Ralph;C-006;P-037;161.87;9;1456.83
+4/09/2021;Villa Grande;Joey Paredes;C-003;P-014;245.55;3;736.65
+4/09/2021;Abasto;Kya Girard;C-005;P-033;331.34;4;1325.36
+4/09/2021;Santo Tomás;Reynaldo Gliston;C-005;P-033;331.34;4;1325.36
+5/09/2021;Villa Grande;Macie Dixie;C-004;P-017;370.8;1;370.8
+6/09/2021;San Genaro;Nash Garrison;C-004;P-016;259.34;9;2334.06
+7/09/2021;Villa Grande;Jamarcus Sears;C-004;P-023;280.35;10;2803.5
+7/09/2021;Villa Grande;Marisa Bradford;C-004;P-017;370.8;9;3337.2
+7/09/2021;Victoria;Gage Cutting;C-004;P-019;103.96;10;1039.6
+8/09/2021;Abasto;Desmond Haydyn;C-006;P-036;405.74;4;1622.96
+8/09/2021;Abasto;Travon Fotherby;C-004;P-020;205.56;8;1644.48
+9/09/2021;Villa Grande;Itzel Halstead;C-005;P-030;102.05;6;612.3
+10/09/2021;Abasto;Alani Leigh;C-005;P-033;331.34;8;2650.72
+11/09/2021;Abasto;Desmond Haydyn;C-004;P-022;143.56;8;1148.48
+11/09/2021;Victoria;Gage Cutting;C-003;P-012;414.36;2;828.72
+12/09/2021;Santo Tomás;Reynaldo Gliston;C-004;P-018;121.47;1;121.47
+13/09/2021;Villa Grande;Itzel Halstead;C-002;P-007;385.93;8;3087.44
+13/09/2021;Santo Tomás;Lisa Ferrari;C-005;P-035;405.47;7;2838.29
+14/09/2021;Villa Grande;Marisa Bradford;C-002;P-006;104.98;6;629.88
+15/09/2021;Santo Tomás;Reynaldo Gliston;C-004;P-023;280.35;3;841.05
+15/09/2021;Abasto;Travon Fotherby;C-002;P-011;244.13;3;732.39
+16/09/2021;Santo Tomás;Reynaldo Gliston;C-006;P-041;234.59;5;1172.95
+16/09/2021;Villa Grande;Macie Dixie;C-006;P-040;273.32;8;2186.56
+17/09/2021;Abasto;Amica Araya;C-005;P-032;207.23;2;414.46
+18/09/2021;San Genaro;Nash Garrison;C-005;P-032;207.23;6;1243.38
+18/09/2021;Villa Grande;Macie Dixie;C-005;P-035;405.47;8;3243.76
+18/09/2021;Victoria;Jaime Gallardo;C-006;P-037;161.87;5;809.35
+18/09/2021;Villa Grande;Yahir Milthorpe;C-006;P-038;398.03;4;1592.12
+19/09/2021;Abasto;Alani Leigh;C-006;P-042;144.7;5;723.5
+20/09/2021;Victoria;Gage Cutting;C-001;P-002;116.7;1;116.7
+21/09/2021;Abasto;Bethany Selby;C-006;P-036;405.74;6;2434.44
+21/09/2021;San Genaro;Barb Pelletier;C-005;P-034;361.83;1;361.83
+22/09/2021;Santo Tomás;Stanley Botolph;C-006;P-037;161.87;7;1133.09
+23/09/2021;Abasto;Bethany Selby;C-002;P-006;104.98;8;839.84
+24/09/2021;Victoria;Jaime Gallardo;C-002;P-008;261.87;9;2356.83
+24/09/2021;Victoria;Joslyn Gallagher;C-004;P-023;280.35;6;1682.1
+25/09/2021;Abasto;Faith Hurst;C-001;P-003;361.53;3;1084.59
+25/09/2021;Abasto;Amica Araya;C-004;P-022;143.56;9;1292.04
+25/09/2021;Villa Grande;Joey Paredes;C-006;P-042;144.7;10;1447
+25/09/2021;Santo Tomás;Stanley Botolph;C-005;P-032;207.23;3;621.69
+25/09/2021;Abasto;Kya Girard;C-002;P-011;244.13;5;1220.65
+26/09/2021;San Genaro;Barb Pelletier;C-005;P-029;172.82;5;864.1
+27/09/2021;Villa Grande;Marisa Bradford;C-005;P-032;207.23;8;1657.84
+27/09/2021;Villa Grande;Yahir Milthorpe;C-002;P-007;385.93;2;771.86
+27/09/2021;Victoria;Gage Cutting;C-004;P-018;121.47;5;607.35
+27/09/2021;Abasto;Faith Hurst;C-004;P-018;121.47;10;1214.7
+28/09/2021;Abasto;Travon Fotherby;C-004;P-019;103.96;7;727.72
+28/09/2021;Villa Grande;Marisa Bradford;C-006;P-038;398.03;1;398.03
+29/09/2021;San Genaro;Irvin Reynold;C-005;P-030;102.05;8;816.4
+29/09/2021;Abasto;Travon Fotherby;C-004;P-022;143.56;1;143.56
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;

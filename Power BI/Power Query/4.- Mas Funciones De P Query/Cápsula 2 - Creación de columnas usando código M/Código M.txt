@@ -1,0 +1,1 @@
+Text.Middle([Fecha],3,2)&"/"&Text.Start([Fecha],2)&"/"&Text.End([Fecha],2)

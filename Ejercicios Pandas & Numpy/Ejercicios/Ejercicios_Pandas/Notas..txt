@@ -1,0 +1,7 @@
+-Podemos filtrar en pandas con condiciones.
+-Solo tenemos que declararlas para al final evaluarlas. 
+
+-Para evaluar más de un dato por variable, podemos usar "isin"
+-De manera que podamos filtrar por ejemplo, países, específicos. 
+
+-df.pais == df["pais"]
